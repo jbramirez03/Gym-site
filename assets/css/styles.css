@@ -694,6 +694,11 @@ img {
 
 /*=============== FOOTER ===============*/
 
+.footer__container {
+  row-gap: 4rem;
+  padding-top: 1rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
